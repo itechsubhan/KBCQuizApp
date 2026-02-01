@@ -1,15 +1,26 @@
-🎉 Who Wants to Be a Millionaire? – iOS Game App
+## 🎉 Who Wants to Be a Millionaire? – iOS Game App
 
 Think you’ve got what it takes to win a million? 💰
 This iOS app recreates the thrill, tension, and excitement of the iconic Who Wants to Be a Millionaire game show — right on your phone!
 
-📱 Project Overview
+## 📱 Project Overview
 
 Who Wants to Be a Millionaire is a quiz-based iOS game where players answer a series of multiple-choice questions that increase in difficulty. One wrong answer, and it’s game over. Answer them all correctly, and you win it all! 🏆
 
 This project is built using SwiftUI and is inspired by the original TV show, while featuring a custom design and smooth user experience.
 
-✨ Features
+
+##  🚀 Getting Started
+
+Clone the repository
+
+Open the project in Xcode
+
+Run the app on an iOS simulator or physical device
+
+Start playing and aim for the million! 💵
+
+## ✨ Features
 
 🚀 Welcome / Splash Screen
 Sets the tone and welcomes players into the game.
@@ -46,7 +57,7 @@ Clean layouts, readable typography, and engaging visuals
 
 Code is properly documented for readability and maintainability
 
-🛠️ Tech Stack
+##  🛠️ Tech Stack
 
 Language: Swift
 
@@ -54,7 +65,7 @@ Framework: SwiftUI
 
 Platform: iOS
 
-📸 Screens Included
+##  📸 Screens Included
 
 Splash / Welcome Screen
 
@@ -73,13 +84,3 @@ Winner Celebration Screen
 ✔ Code Documentation
 ✔ Game Flow Accuracy
 ✔ Creativity & Styling
-
-🚀 Getting Started
-
-Clone the repository
-
-Open the project in Xcode
-
-Run the app on an iOS simulator or physical device
-
-Start playing and aim for the million! 💵
